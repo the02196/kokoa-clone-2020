@@ -1,0 +1,9 @@
+.dot {
+    background-color: tomato;
+    width:4px;
+    height: 4px;
+    border-radius: 9px;
+    position: absolute;
+    left: 16px;
+    bottom: 20px;
+}
